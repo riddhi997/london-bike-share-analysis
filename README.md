@@ -34,8 +34,23 @@ and UK public holidays.
 
 ### Files
 notebooks/london_bikes_analysis.ipynb
-data/london_merged.csv (source: TfL Open Data)
 
 ### How to run
 pip install -r requirements.txt
 jupyter notebook notebooks/london_bikes_analysis.ipynb
+
+## Data
+The dataset used in this project is 
+Transport for London (TfL) Open Data sourced from Kaggle:
+**Download:** 
+https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset 
+
+**File needed:** 
+Journey Data Extract — August 2023
+Filename: LondonBikeJourneyAug2023.csv
+
+Place the CSV file in this /data folder before 
+running the notebook.
+
+Note: The CSV is not included in this repository 
+due to file size (approx. 150MB).
