@@ -34,6 +34,7 @@ and UK public holidays.
 
 ### Files
 notebooks/london_bikes_analysis.ipynb
+London_Bike_Share_Presentation.pptx
 
 ### How to run
 pip install -r requirements.txt
