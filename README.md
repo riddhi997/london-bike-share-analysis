@@ -43,7 +43,7 @@ jupyter notebook notebooks/london_bikes_analysis.ipynb
 The dataset used in this project is 
 Transport for London (TfL) Open Data sourced from Kaggle:
 **Download:** 
-https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset 
+https://www.kaggle.com/datasets/kalacheva/london-bike-share-usage-dataset
 
 **File needed:** 
 Journey Data Extract — August 2023
